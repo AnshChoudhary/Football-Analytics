@@ -8,8 +8,25 @@ https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w
 
 Football analytics has become increasingly popular in recent years, offering valuable insights into player performance, team strategies, and match outcomes. This repository aims to provide a practical resource for football enthusiasts, data scientists, and researchers interested in exploring the world of football analytics using Python.
 
-## Output
+## Analysis of a football match
 
-### Real Madrid 0 x 3 Barcelona ● La Liga 17/18
+### Example: Real Madrid 0 x 3 FC Barcelona ● La Liga 17/18
 
+**xG of Shots by FC Barcelona and Real Madrid:** <br />
+
+![xG Shots](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/xGShots.png)
+
+In the image shown above, blue circles represent shots taken by Barcelona players and red circles represent shots taken by Real Madrid players. The size of each circle represents the xG of that respective shot. Darker circles represent shots that were converted into goals. Shots that led to a goal are also accompanied by the name of the player that scored the respective goal.
+
+**Passes made by FC Barcelona:** <br />
+
+![Barcelona Passes](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/BarcelonaPasses.png)
+
+**Passes made by Real Madrid:** <br />
+
+![Madrid Passes](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/RealMadridPasses.png)
+
+**Passes made by Lionel Messi:** <br />
+
+![Messi Passes](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/Passes-Messi.png)
 
