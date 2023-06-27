@@ -34,9 +34,16 @@ In the image shown above, blue circles represent shots taken by Barcelona player
 
 ![Messi Passes](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/Passes-Ronaldo.png)
 
-## Analysis of Teams in a League
+## Analysis of Teams in the same league using Heat Maps of Passes
 
 ### Example: La Liga in 2014-15
 Comparing Heat Maps of Passes for different teams:
-https://github.com/AnshChoudhary/Football-Analytics/tree/main/Outputs/LaLiga(14-15)/HeatMaps-Teams
 
+**FC Barcelona:**
+![Barcelona Heat Map](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/LaLiga(14-15)/HeatMaps-Teams/BarcelonaHeatMap.png)
+
+**Atletico Madrid:**
+![Atletico Madrid Heat Map](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/LaLiga(14-15)/HeatMaps-Teams/AtleticoMadridHeatMap.png)
+
+**Real Madrid:**
+![Real Madrid Heat Map](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/LaLiga(14-15)/HeatMaps-Teams/RealMadridHeatMap.png)
