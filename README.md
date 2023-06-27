@@ -10,7 +10,7 @@ Football analytics has become increasingly popular in recent years, offering val
 
 ## Analysis of a football match
 
-### Example: Real Madrid 0 x 3 FC Barcelona ● La Liga 17/18
+### Example: <br /> Real Madrid 0 x 3 FC Barcelona ● La Liga 17/18
 
 **xG of Shots by FC Barcelona and Real Madrid:** <br />
 
@@ -29,4 +29,10 @@ In the image shown above, blue circles represent shots taken by Barcelona player
 **Passes made by Lionel Messi:** <br />
 
 ![Messi Passes](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/Passes-Messi.png)
+
+## Analysis of Teams in a League
+
+### Example: La Liga in 2014-15
+Comparing Heat Maps of Passes for different teams:
+https://github.com/AnshChoudhary/Football-Analytics/tree/main/Outputs/LaLiga(14-15)/HeatMaps-Teams
 
