@@ -30,6 +30,10 @@ In the image shown above, blue circles represent shots taken by Barcelona player
 
 ![Messi Passes](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/Passes-Messi.png)
 
+**Passes made by Cristiano Ronaldo:** <br />
+
+![Messi Passes](https://github.com/AnshChoudhary/Football-Analytics/blob/main/Outputs/El-Clasico/Passes-Ronaldo.png)
+
 ## Analysis of Teams in a League
 
 ### Example: La Liga in 2014-15
